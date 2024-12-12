@@ -7,3 +7,5 @@ def area(a, h):
 def perimeter(a, b, c):
     '''Returns perimeter of a triangle from the given sides a, b, c'''
     return a + b + c
+
+
